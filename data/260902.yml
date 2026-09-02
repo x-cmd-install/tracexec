@@ -1,0 +1,63 @@
+about:
+  description: Tracer for execve{,at} and pre-exec behavior, launcher for debuggers.
+  license: GPL-2.0
+  homepage: https://tracexec.kxxt.dev
+  head: 0467605
+  archived: false
+  latestVersion: v1.0.0-alpha.1
+  collectedAt: 2026-09-02T04:23:06Z
+timeline:
+  created: 2023-10-22
+  lastCommit: 2026-08-31
+  lastRelease: 2026-08-29
+popularity:
+  star: 437
+  watcher: 1
+  fork: 7
+  release: 61
+  contributor: 5
+  pullRequest: 42
+  issue: 58
+language:
+  Rust: 1236629
+  Nix: 71330
+  C: 57304
+  Python: 32767
+  Handlebars: 1852
+  Just: 1323
+  Shell: 772
+  Makefile: 68
+totalLine: 1402045
+recent:
+  last30d:
+    since: 2026-08-03
+    release: 1
+    mergedPR: 11
+    openPR: 4
+    closedIssue: 0
+    openIssue: 0
+    commit: 23
+  last90d:
+    since: 2026-06-04
+    release: 1
+    mergedPR: 48
+    openPR: 7
+    closedIssue: 1
+    openIssue: 0
+    commit: 146
+  last180d:
+    since: 2026-03-06
+    release: 2
+    mergedPR: 111
+    openPR: 7
+    closedIssue: 4
+    openIssue: 1
+    commit: 306
+  last360d:
+    since: 2025-09-07
+    release: 9
+    mergedPR: 149
+    openPR: 7
+    closedIssue: 13
+    openIssue: 4
+    commit: 460
