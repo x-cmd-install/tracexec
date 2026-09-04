@@ -7,7 +7,7 @@ about:
   head: 0467605
   archived: false
   latestVersion: v1.0.0-alpha.1
-  collectedAt: 2026-09-04T19:31:21Z
+  collectedAt: 2026-09-04T21:01:14Z
 timeline:
   created: 2023-10-22
   lastCommit: 2026-08-31
@@ -87,5 +87,88 @@ total:
   openIssue: 19
   commit: 1418
 ---
+path: /home/runner/.x-repo/github.com/kxxt/tracexec
+collectedAt: 2026-09-04T21:01:16Z
+loc:
+  CHeader:
+    code: 335082
+    comments: 65
+    blanks: 43381
+    files: 10
+  Rust:
+    code: 35516
+    comments: 1241
+    blanks: 3327
+    files: 113
+  Protobuf:
+    code: 28549
+    comments: 13374
+    blanks: 5039
+    files: 296
+  Nix:
+    code: 1672
+    comments: 178
+    blanks: 141
+    files: 8
+  C:
+    code: 1229
+    comments: 191
+    blanks: 95
+    files: 1
+  Python:
+    code: 871
+    comments: 2
+    blanks: 179
+    files: 2
+  Toml:
+    code: 619
+    comments: 365
+    blanks: 106
+    files: 18
+  Handlebars:
+    code: 65
+    comments: 0
+    blanks: 5
+    files: 1
+  Json:
+    code: 9
+    comments: 0
+    blanks: 0
+    files: 2
+  Sh:
+    code: 9
+    comments: 4
+    blanks: 6
+    files: 3
+  Yaml:
+    code: 9
+    comments: 0
+    blanks: 2
+    files: 1
+  Makefile:
+    code: 7
+    comments: 0
+    blanks: 1
+    files: 1
+  Bash:
+    code: 1
+    comments: 1
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 2207
+    blanks: 1113
+    files: 48
+  Text:
+    code: 0
+    comments: 27
+    blanks: 1
+    files: 1
+total:
+  code: 403987
+  comments: 19310
+  blanks: 53615
+  files: 506
 ---
 
