@@ -4,7 +4,7 @@
 
 Tracer for execve{,at} and pre-exec behavior, launcher for debuggers.
 
-![tracexec](https://repo.x-cmd.io/tracexec.svg)
+![tracexec](https://repo.x-cmd.io/tracexec.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,17 @@ x install tracexec
 - **最新版本**: `v1.0.0` (2026-09-06)
 - **最近提交**: 2026-09-06
 - **Release 含资产**: 6 个
-- **发布时间**: 2026-09-06T14:03:29Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [tracexec-aarch64-unknown-linux-gnu-static.tar.gz](https://github.com/kxxt/tracexec/releases/download/v1.0.0/tracexec-aarch64-unknown-linux-gnu-static.tar.gz) | 3.8 MiB | `native/linux/arm64/glibc` |
+| [tracexec-aarch64-unknown-linux-gnu.tar.gz](https://github.com/kxxt/tracexec/releases/download/v1.0.0/tracexec-aarch64-unknown-linux-gnu.tar.gz) | 3.3 MiB | `native/linux/arm64/glibc` |
+| [tracexec-riscv64gc-unknown-linux-gnu-static.tar.gz](https://github.com/kxxt/tracexec/releases/download/v1.0.0/tracexec-riscv64gc-unknown-linux-gnu-static.tar.gz) | 3.9 MiB | `native/linux/riscv64/glibc` |
+| [tracexec-riscv64gc-unknown-linux-gnu.tar.gz](https://github.com/kxxt/tracexec/releases/download/v1.0.0/tracexec-riscv64gc-unknown-linux-gnu.tar.gz) | 3.4 MiB | `native/linux/riscv64/glibc` |
+| [tracexec-x86_64-unknown-linux-gnu-static.tar.gz](https://github.com/kxxt/tracexec/releases/download/v1.0.0/tracexec-x86_64-unknown-linux-gnu-static.tar.gz) | 4.0 MiB | `native/linux/x64/glibc` |
+| [tracexec-x86_64-unknown-linux-gnu.tar.gz](https://github.com/kxxt/tracexec/releases/download/v1.0.0/tracexec-x86_64-unknown-linux-gnu.tar.gz) | 3.3 MiB | `native/linux/x64/glibc` |
 
 ## 流行度
 
@@ -62,4 +72,4 @@ tracexec 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:53:06Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:34:41Z._
