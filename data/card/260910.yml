@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.0.0"
   latestRelease: "v1.0.0"
   latestPrerelease: "v1.0.0-rc.1"
-  collectedAt: 2026-09-10T16:34:33Z
+  collectedAt: 2026-09-10T21:43:13Z
 timeline:
   created: 2023-10-22
   lastCommit: 2026-09-06
@@ -90,7 +90,7 @@ total:
   commit: 1441
 ---
 path: /home/runner/.x-repo/github.com/kxxt/tracexec
-collectedAt: 2026-09-10T16:34:35Z
+collectedAt: 2026-09-10T21:43:16Z
 loc:
   CHeader:
     code: 335086
