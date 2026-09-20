@@ -4,7 +4,7 @@
 
 Tracer for execve{,at} and pre-exec behavior, launcher for debuggers.
 
-![tracexec](https://repo.x-cmd.io/tracexec.svg)
+[![x-cmd/install — tracexec Code Quality Monitoring Repo Card](https://repo.x-cmd.io/tracexec.svg)](https://x-cmd.com/install/tracexec)
 
 ## Install
 
@@ -14,12 +14,12 @@ x install tracexec
 
 ## Code insight
 
-Total: **403,965** lines of code across **431** files in the top 5 languages.
+Total: **404,265** lines of code across **432** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | CHeader | 335,086 | 65 | 43,383 | 11 |
-| Rust | 35,779 | 1,245 | 3,336 | 113 |
+| Rust | 36,079 | 1,233 | 3,362 | 114 |
 | Protobuf | 28,549 | 13,374 | 5,039 | 296 |
 | Nix | 1,672 | 178 | 141 | 8 |
 | C | 1,281 | 192 | 104 | 3 |
@@ -33,7 +33,7 @@ Total: **403,965** lines of code across **431** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.0.0` (2026-09-06)
-- **Last commit**: 2026-09-06
+- **Last commit**: 2026-09-19
 - **Assets in release**: 6
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **403,965** lines of code across **431** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 63 · **Merged PRs**: 220 · **Open PRs**: 8 · **Closed issues**: 39 · **Open issues**: 19 · **Commits**: 1441
+- **Releases**: 63 · **Merged PRs**: 222 · **Open PRs**: 7 · **Closed issues**: 39 · **Open issues**: 19 · **Commits**: 1443
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 3 | 11 | 5 | 0 | 0 | 33 |
-| last60d | 2026-07-20 | 3 | 19 | 5 | 0 | 0 | 82 |
-| 90d | 2026-06-20 | 3 | 39 | 7 | 1 | 0 | 147 |
-| last180d | 2026-03-22 | 3 | 92 | 8 | 2 | 1 | 248 |
-| 360d | 2025-09-23 | 10 | 152 | 8 | 12 | 4 | 482 |
-| last720d | 2024-09-28 | 24 | 209 | 8 | 19 | 10 | 681 |
+| 30d | 2026-08-21 | 3 | 13 | 4 | 0 | 0 | 33 |
+| last60d | 2026-07-22 | 3 | 21 | 4 | 0 | 0 | 49 |
+| 90d | 2026-06-22 | 3 | 39 | 6 | 1 | 0 | 115 |
+| last180d | 2026-03-24 | 3 | 91 | 7 | 2 | 0 | 232 |
+| 360d | 2025-09-25 | 10 | 154 | 7 | 12 | 4 | 484 |
+| last720d | 2024-09-30 | 24 | 211 | 7 | 19 | 10 | 681 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for tracexec lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:49:41Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T04:58:32Z._
