@@ -4,7 +4,7 @@
 
 Tracer for execve{,at} and pre-exec behavior, launcher for debuggers.
 
-[![x-cmd/install — tracexec Code Quality Monitoring Repo Card](https://repo.x-cmd.io/tracexec.svg?lang=zh)](https://x-cmd.com/install/tracexec)
+[![x-cmd/install — tracexec Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/tracexec.svg?lang=zh)](https://x-cmd.com/install/tracexec)
 
 ## 安装
 
@@ -48,12 +48,12 @@ x install tracexec
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 3 | 14 | 4 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 3 | 21 | 4 | 0 | 0 | 0 |
-| 90d | 2026-06-24 | 3 | 40 | 6 | 1 | 0 | 0 |
-| last180d | 2026-03-26 | 3 | 90 | 7 | 1 | 0 | 0 |
-| 360d | 2025-09-27 | 10 | 155 | 7 | 12 | 4 | 0 |
-| last720d | 2024-10-02 | 24 | 212 | 7 | 19 | 10 | 682 |
+| 30d | 2026-08-24 | 3 | 13 | 4 | 0 | 0 | 34 |
+| last60d | 2026-07-25 | 3 | 20 | 4 | 0 | 0 | 50 |
+| 90d | 2026-06-25 | 3 | 40 | 6 | 1 | 0 | 116 |
+| last180d | 2026-03-27 | 3 | 90 | 7 | 1 | 0 | 233 |
+| 360d | 2025-09-28 | 10 | 155 | 7 | 12 | 4 | 485 |
+| last720d | 2024-10-03 | 24 | 212 | 7 | 19 | 10 | 682 |
 
 ## Release 资产
 
@@ -75,4 +75,4 @@ tracexec 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T04:56:07Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:01:06Z._
