@@ -48,12 +48,12 @@ Total: **404,265** lines of code across **432** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 3 | 11 | 4 | 0 | 0 | 34 |
-| last60d | 2026-07-26 | 3 | 20 | 4 | 0 | 0 | 50 |
-| 90d | 2026-06-26 | 3 | 40 | 6 | 1 | 0 | 116 |
-| last180d | 2026-03-28 | 3 | 88 | 7 | 1 | 0 | 233 |
-| 360d | 2025-09-29 | 10 | 155 | 7 | 12 | 4 | 485 |
-| last720d | 2024-10-04 | 24 | 212 | 7 | 19 | 10 | 682 |
+| 30d | 2026-08-26 | 3 | 11 | 4 | 0 | 0 | 34 |
+| last60d | 2026-07-27 | 3 | 18 | 4 | 0 | 0 | 50 |
+| 90d | 2026-06-27 | 3 | 39 | 5 | 1 | 0 | 116 |
+| last180d | 2026-03-29 | 3 | 87 | 7 | 1 | 0 | 233 |
+| 360d | 2025-09-30 | 10 | 155 | 7 | 12 | 4 | 485 |
+| last720d | 2024-10-05 | 24 | 212 | 7 | 19 | 10 | 682 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for tracexec lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T04:44:52Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T04:55:48Z._
