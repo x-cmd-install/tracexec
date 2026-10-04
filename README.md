@@ -33,27 +33,27 @@ Total: **404,265** lines of code across **432** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.0.0` (2026-09-06)
-- **Last commit**: 2026-09-21
+- **Last commit**: 2026-10-04
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 443 · **Forks**: 7 · **Open issues**: 58 · **Contributors**: 5
+- **Stars**: 444 · **Forks**: 7 · **Open issues**: 58 · **Contributors**: 5
 
 ## Totals (cumulative)
 
-- **Releases**: 63 · **Merged PRs**: 223 · **Open PRs**: 8 · **Closed issues**: 39 · **Open issues**: 19 · **Commits**: 1444
+- **Releases**: 63 · **Merged PRs**: 224 · **Open PRs**: 7 · **Closed issues**: 39 · **Open issues**: 19 · **Commits**: 1445
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-03 | 2 | 7 | 1 | 0 | 0 | 26 |
-| last60d | 2026-08-04 | 3 | 18 | 5 | 0 | 0 | 49 |
-| 90d | 2026-07-05 | 3 | 35 | 6 | 0 | 0 | 110 |
-| last180d | 2026-04-06 | 3 | 79 | 8 | 1 | 0 | 203 |
-| 360d | 2025-10-08 | 10 | 155 | 8 | 11 | 3 | 485 |
-| last720d | 2024-10-13 | 21 | 211 | 8 | 19 | 10 | 657 |
+| 30d | 2026-09-04 | 2 | 8 | 0 | 0 | 0 | 3 |
+| last60d | 2026-08-05 | 3 | 19 | 4 | 0 | 0 | 46 |
+| 90d | 2026-07-06 | 3 | 35 | 5 | 0 | 0 | 97 |
+| last180d | 2026-04-07 | 3 | 79 | 7 | 1 | 0 | 197 |
+| 360d | 2025-10-09 | 10 | 156 | 7 | 11 | 3 | 480 |
+| last720d | 2024-10-14 | 21 | 212 | 7 | 19 | 10 | 658 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for tracexec lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261003.yml` · 2026-10-03T05:26:58Z._
+_Snapshot: `data/card/261004.yml` · 2026-10-04T05:52:05Z._
