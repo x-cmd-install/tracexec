@@ -14,14 +14,14 @@ x install tracexec
 
 ## Code insight
 
-Total: **404,748** lines of code across **434** files in the top 5 languages.
+Total: **404,738** lines of code across **434** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | CHeader | 335,086 | 65 | 43,383 | 11 |
 | Rust | 36,561 | 1,246 | 3,403 | 116 |
 | Protobuf | 28,549 | 13,374 | 5,039 | 296 |
-| Nix | 1,672 | 178 | 141 | 8 |
+| Nix | 1,662 | 178 | 141 | 8 |
 | C | 1,281 | 192 | 104 | 3 |
 
 ## Source
@@ -33,7 +33,7 @@ Total: **404,748** lines of code across **434** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.0.0` (2026-09-06)
-- **Last commit**: 2026-10-13
+- **Last commit**: 2026-10-20
 - **Assets in release**: 6
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **404,748** lines of code across **434** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 63 · **Merged PRs**: 228 · **Open PRs**: 7 · **Closed issues**: 39 · **Open issues**: 19 · **Commits**: 1451
+- **Releases**: 63 · **Merged PRs**: 229 · **Open PRs**: 7 · **Closed issues**: 39 · **Open issues**: 19 · **Commits**: 1452
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 0 | 6 | 0 | 0 | 0 | 7 |
-| last60d | 2026-08-20 | 3 | 19 | 4 | 0 | 0 | 41 |
-| 90d | 2026-07-21 | 3 | 27 | 4 | 0 | 0 | 59 |
-| last180d | 2026-04-22 | 3 | 71 | 7 | 1 | 0 | 188 |
-| 360d | 2025-10-24 | 9 | 157 | 7 | 11 | 3 | 480 |
-| last720d | 2024-10-29 | 18 | 213 | 7 | 19 | 10 | 626 |
+| 30d | 2026-09-20 | 0 | 7 | 0 | 0 | 0 | 8 |
+| last60d | 2026-08-21 | 3 | 20 | 4 | 0 | 0 | 42 |
+| 90d | 2026-07-22 | 3 | 28 | 4 | 0 | 0 | 60 |
+| last180d | 2026-04-23 | 3 | 72 | 7 | 1 | 0 | 189 |
+| 360d | 2025-10-25 | 9 | 158 | 7 | 11 | 3 | 481 |
+| last720d | 2024-10-30 | 18 | 214 | 7 | 19 | 10 | 627 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for tracexec lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T04:42:46Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T04:53:25Z._
