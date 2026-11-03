@@ -9,28 +9,6 @@
   summary: A small utility for tracing execve{,at} and pre-exec behavior
   licenses:
     - GPL-2.0-or-later
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: tracexec
-  binname: tracexec
-  visiblename: tracexec
-  version: 0.17.0
-  origversion: 0.17.0-2
-  status: outdated
-  summary: A small utility for tracing execve{,at} and pre-exec behavior
-  licenses:
-    - GPL-2.0-or-later
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: tracexec
-  binname: tracexec
-  visiblename: tracexec
-  version: 1.0.0
-  origversion: 1.0.0-2
-  status: newest
-  summary: A small utility for tracing execve{,at} and pre-exec behavior
-  licenses:
-    - GPL-2.0-or-later
 - repo: manjaro_unstable
   subrepo: extra
   srcname: tracexec
