@@ -48,12 +48,12 @@ Total: **404,777** lines of code across **434** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 4 | 4 | 0 | 0 | 0 |
-| last60d | 2026-09-27 | 0 | 11 | 4 | 0 | 0 | 0 |
-| 90d | 2026-08-28 | 3 | 24 | 5 | 0 | 0 | 0 |
-| last180d | 2026-05-30 | 3 | 68 | 7 | 1 | 0 | 0 |
-| 360d | 2025-12-01 | 7 | 158 | 7 | 7 | 2 | 0 |
-| last720d | 2024-12-06 | 18 | 218 | 7 | 18 | 10 | 632 |
+| 30d | 2026-10-28 | 0 | 4 | 4 | 0 | 0 | 0 |
+| last60d | 2026-09-28 | 0 | 10 | 4 | 0 | 0 | 0 |
+| 90d | 2026-08-29 | 3 | 21 | 5 | 0 | 0 | 0 |
+| last180d | 2026-05-31 | 3 | 68 | 7 | 1 | 0 | 0 |
+| 360d | 2025-12-02 | 7 | 158 | 7 | 7 | 2 | 0 |
+| last720d | 2024-12-07 | 18 | 218 | 7 | 18 | 10 | 632 |
 
 ## Release assets
 
@@ -66,15 +66,6 @@ Total: **404,777** lines of code across **434** files in the top 5 languages.
 | [tracexec-x86_64-unknown-linux-gnu-static.tar.gz](https://github.com/kxxt/tracexec/releases/download/v1.0.0/tracexec-x86_64-unknown-linux-gnu-static.tar.gz) | 4.0 MiB | `native/linux/x64/glibc` |
 | [tracexec-x86_64-unknown-linux-gnu.tar.gz](https://github.com/kxxt/tracexec/releases/download/v1.0.0/tracexec-x86_64-unknown-linux-gnu.tar.gz) | 3.3 MiB | `native/linux/x64/glibc` |
 
-## Distribution status
-
-Reported by **11** distros on [repology.org](https://repology.org/project/tracexec). **6** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `1.0.0` | ✅ latest |
-| Nix unstable | `1.0.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for tracexec lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `tracexec` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -84,4 +75,4 @@ Install metadata for tracexec lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T08:18:24Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T08:30:20Z._
